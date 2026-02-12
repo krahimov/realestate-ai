@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "toronto-dev-apps": {
+      "command": "node",
+      "args": ["/Users/karimrahimov/my-app/mcp-server/build/index.js"]
+    }
+  }
+}
