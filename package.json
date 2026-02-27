@@ -27,6 +27,8 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "@fabriklabs/cli": "^0.1.6",
+    "@fabriklabs/core": "^0.1.5",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
